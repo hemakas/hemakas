@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hemaka
 - 👀 I’m interested in Web Technologies
 - 🌱 I’m currently learning the MERN Stack with Redux Toolkit
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on online hotel booking app
 - 📫 How to reach me on gmail - hemaka.contact@gmail.com
 
 <!---
